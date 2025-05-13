@@ -2,10 +2,10 @@
 READ.me  contendo resumos, anotações e dicas sobre o uso da Azure passado pelo curso da DIO
 
 ## O que é Cloud
-Cloud Computing (Computação em Nuvem): Modelo de entrega de serviços de tecnologia (armazenamento, processamento, software, redes) pela internet, sob demanda e com pagamento pelo uso. Elimina a necessidade de infraestrutura física própria, oferecendo escala, flexibilidade, agilidade e acesso remoto. Tipos principais: pública, privada e híbrida.
+Modelo de entrega de serviços de tecnologia (armazenamento, processamento, software, redes) pela internet, sob demanda e com pagamento pelo uso. Elimina a necessidade de infraestrutura física própria, oferecendo escala, flexibilidade, agilidade e acesso remoto. Tipos principais: pública, privada e híbrida.
 
 ## Infraestrutura
-Infraestrutura de TI: Conjunto de recursos físicos ou virtuais (servidores, redes, armazenamento) essenciais para sistemas de TI. Modelos principais:
+Conjunto de recursos físicos ou virtuais (servidores, redes, armazenamento) essenciais para sistemas de TI. Modelos principais:
 
 ### **On-Premise (Local):** Infraestrutura de TI instalada, gerenciada e mantida localmente nas instalações da empresa, com controle total sobre hardware e software.
 * Vantagens: Controle total, personalização.
@@ -22,7 +22,8 @@ Infraestrutura de TI: Conjunto de recursos físicos ou virtuais (servidores, red
 * Desvantagens: Complexidade na gestão, integração entre ambientes locais e nuvem.
   - Exemplos: Serviços críticos locais e carga de trabalho escalável na nuvem, conexões seguras entre servidores locais e provedores de nuvem.
 
-## Modelos de Serviço em Nuvem: Definem o nível de controle da empresa sobre a infraestrutura e os serviços do provedor, auxiliando na escolha da solução mais adequada com base em controle, custo e escalabilidade.
+## Modelos de Serviço em Nuvem:
+Definem o nível de controle da empresa sobre a infraestrutura e os serviços do provedor, auxiliando na escolha da solução mais adequada com base em controle, custo e escalabilidade.
 
 ### **Golden Rules**: Regras universais para escolher e implementar modelos de serviço.
   * Exemplo: "Escolha o modelo de serviço adequado conforme o nível de controle necessário."
@@ -61,4 +62,12 @@ Tipos de Modelos de Serviço em Nuvem:
 * Vantagens: Facilidade de escalabilidade, gerenciamento simplificado de backups e atualizações.
 * Desvantagens: Menor controle sobre a configuração do banco de dados e personalização.
   * Exemplos: Amazon RDS, Azure SQL Database, Google Cloud SQL.
+## Resumo dos Pilares da Nuvem:
+* Escalabilidade: Aumentar/diminuir recursos de TI rapidamente conforme a demanda.
+* Elasticidade: Escalabilidade automática e em tempo real em resposta à carga de trabalho.
+* Governança: Políticas, processos e controles para uso eficiente, seguro e em conformidade da nuvem.
+* Gerenciabilidade: Facilidade de administrar, monitorar e manter recursos e serviços de nuvem.
+* Confiabilidade: Operação consistente e sem falhas, com alta disponibilidade e recuperação de desastres.
+* Previsibilidade: Capacidade de estimar e controlar custos dos serviços de nuvem.
+* Segurança: Medidas para proteger dados, aplicativos e infraestrutura contra ameaças.
 
