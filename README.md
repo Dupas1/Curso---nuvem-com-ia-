@@ -71,3 +71,19 @@ Tipos de Modelos de Serviço em Nuvem:
 * Previsibilidade: Capacidade de estimar e controlar custos dos serviços de nuvem.
 * Segurança: Medidas para proteger dados, aplicativos e infraestrutura contra ameaças.
 
+## SLA (Service Level Agreement): Resumo
+
+Em essência, um SLA é um contrato ou acordo entre um provedor de serviços (que pode ser um fornecedor externo ou até mesmo um departamento interno de uma empresa) e seus clientes ou usuários. Ele define claramente o nível de serviço que o cliente pode esperar, estabelecendo métricas específicas de desempenho e as responsabilidades de ambas as partes.
+
+Uptime (%)	Downtime Anual Aproximado
+99.0%	3 dias, 15 horas e 36 minutos
+99.5%	1 dia, 19 horas e 49 minutos
+99.9%	8 horas e 46 minutos
+99.95%	4 horas e 23 minutos
+99.99%	52 minutos e 36 segundos
+99.999%	5 minutos e 15 segundos
+
+Quanto mais "9" na disponibilidade (ex: 99.99% vs 99.9%), maior a garantia de serviço e, geralmente, mais caro o custo.
+
+Em resumo, o SLA é um documento fundamental para estabelecer uma relação clara e confiável entre um provedor de serviços e seus clientes, definindo as expectativas e garantindo um certo nível de qualidade na entrega dos serviços.
+
